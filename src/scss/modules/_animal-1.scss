@@ -1,0 +1,42 @@
+// .animal {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+// }
+
+// .animal-informations {
+//   width: 350px;
+//   height: 277px;
+//   border: 1px solid #979797;
+//   background: #fff;
+//   background-image: url("../img/15dc4481781a0fa8d2d36907bd61985d.png");
+//   background-size: contain;
+//   background-repeat: no-repeat;
+//   padding: 20px;
+//   margin: 30px 15px 0px 15px;
+// }
+
+.animal {
+  border: 1px solid #979797;
+  background: #fff;
+  box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.5);
+  margin: 0px 0px 30px 0px;
+}
+
+.animal-image {
+  width: 100%;
+}
+
+.animal-informations {
+  padding: 20px;
+}
+
+.animal-name {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.animal-location {
+  font-size: 16px;
+  font-weight: 500;
+}
